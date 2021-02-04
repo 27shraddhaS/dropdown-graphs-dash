@@ -1,0 +1,57 @@
+body {
+   
+    background-color:#131f1a;
+    height:1000px; 
+    background-image:url(photo1o.png);
+    background-repeat:repeat ;      
+}    
+.app-head{
+    height:60px;
+    font-family:courier;
+    line-height:60px;
+    border-bottom:thin lightgrey solid;
+   
+}
+.li{
+    border-bottom:thin teal solid;
+   
+}
+.gap{
+    height:10px;
+}
+.gap2{
+    height:4px;
+}
+.recop{
+    font-size:18px;
+    font-family:serif;
+}
+
+.oc{
+    font-size:20px;
+    font-family:serif;
+    
+}
+.ana{
+    font-size:40px;
+    font-family:serif
+}
+.box1op{
+    font-size:40px;
+    font-weight:bold;
+    font-family:serif;
+    
+}
+
+.dropgraph{
+    transition:all .2s ease-in-out;
+}
+
+
+
+
+
+
+
+
+    
